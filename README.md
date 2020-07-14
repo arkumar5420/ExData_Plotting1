@@ -97,18 +97,22 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
 
+See plot1.R for the code and plot1.png for the plot
 
 ### Plot 2
 
 ![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
 
+See plot2.R for the code and plot2.png for the plot
 
 ### Plot 3
 
 ![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
 
+See plot3.R for the code and plot3.png for the plot
 
 ### Plot 4
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+See plot4.R for the code and plot4.png for the plot
